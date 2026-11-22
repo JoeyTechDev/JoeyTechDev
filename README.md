@@ -68,10 +68,12 @@ I believe technology should do more than look impressive. It should solve real p
 
 **Automation & AI**
 
-- n8n
-- AI APIs and integrations
-- Workflow automation
-- Elementor and Netlify
+<p align="center">
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="45" alt="n8n">
+  <img src="https://cdn.simpleicons.org/openai/412991" height="45" alt="OpenAI">
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="45" alt="Docker">
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="45" alt="Python">
+</p>
 
 ---
 
